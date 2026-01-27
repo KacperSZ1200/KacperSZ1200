@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           Basic Dark Theme Example
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Prosty ciemny motyw dla przykładu
+@author         You
+==/UserStyle== */
+
+@-moz-document domain("example.com") {
+    body {
+        background-color: #222;
+        color: #eee;
+    }
+}
