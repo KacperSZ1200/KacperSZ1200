@@ -18,6 +18,20 @@ I specialize in **browser automation**, **multi-account workflows**, and **web c
 - Developing Tampermonkey userscripts for productivity
 - Exploring AI-assisted coding and automation
 
+### 📂 Project Structure
+
+This repository is organized into the following directories:
+
+- **`userscripts/`**: Contains JavaScript files for Tampermonkey (or similar userscript managers).
+  - Example: `hello_world.user.js` - A simple script to get you started.
+- **`userstyles/`**: Contains CSS files for Stylus (or similar userstyle managers).
+  - Example: `basic_theme.user.css` - A basic dark theme template.
+
+#### How to use
+
+1. **Userscripts:** Open the raw version of a `.user.js` file. Your userscript manager (like Tampermonkey) should prompt you to install it.
+2. **Userstyles:** Open the raw version of a `.user.css` file. Your userstyle manager (like Stylus) should prompt you to install it.
+
 ### 📫 Connect
 
 Feel free to explore my repositories or reach out if you're interested in automation and customization projects!
